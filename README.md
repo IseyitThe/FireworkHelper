@@ -5,3 +5,6 @@ Firework Helper is a simple yet useful mod that lets you use firework rockets wi
 ### Keybind 
 ![ModMenu](https://i.ibb.co/M5yLV0Fd/57175-D30-4984-4014-8-B30-D37-EDACFAD82.png)
 
+
+### Showcase 
+![ModMenu](https://i.ibb.co/BKQwxCn6/dasd.gif)
