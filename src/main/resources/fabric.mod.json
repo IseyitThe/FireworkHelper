@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "fireworkhelper",
+  "version": "${version}",
+  "name": "Firework Helper",
+  "description": "Firework Helper is a mod that allows you to use fireworks with a keybind.",
+  "authors": ["Seyit"],
+  "contact": {
+    "repo": "https://github.com/IseyitThe/FireworkHelper"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/fireworkhelper/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "me.seyit.fireworkhelper.Fireworkhelper"
+    ]
+  },
+  "mixins": [
+    "fireworkhelper.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
