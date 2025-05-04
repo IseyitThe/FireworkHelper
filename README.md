@@ -3,7 +3,7 @@ Firework Helper Mod for Minecraft
 Firework Helper is a mod that allows you to use fireworks with a keybind.
 
 ### Main
-![Showcase](https://i.ibb.co/gZ6c97gq/main.gif)
+![Showcase](https://i.ibb.co/kTVcxSb/ezgif-6fbf725f63d5eb.gif)
 
 
 ### Keybind 
